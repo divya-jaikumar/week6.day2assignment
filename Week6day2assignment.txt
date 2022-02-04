@@ -1,0 +1,8 @@
+Week6 Day2 Assignment
+createlead-groups (@sanity @samoke)
+editlead-soft assertion
+mergelead-hardassert
+deletelead-retryAnalyzer
+duplicatelead-crossbrowser
+data-excel file for delete and duplicae
+xml file for executing delete and duplicate
